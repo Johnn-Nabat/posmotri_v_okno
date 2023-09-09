@@ -16,6 +16,7 @@ html {
   align-items: center;
   justify-content: center;
   block-size: 100%;
+  padding-left: 10px;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
