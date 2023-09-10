@@ -16,7 +16,6 @@ html {
   align-items: center;
   justify-content: center;
   block-size: 100%;
-  padding-left: 10px;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -59,8 +58,6 @@ ol {
   display: grid;
   grid-template-columns: 2fr 1fr;
   align-items: center;
-  justify-content: center;
-
   gap: 30px;
 }
 
