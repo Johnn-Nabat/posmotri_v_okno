@@ -111,6 +111,7 @@ ol {
   position: relative;
   overflow-y: auto;
   height: 298px;
+  width: calc(100% + 16px);
 }
 
 .content__list-item {
